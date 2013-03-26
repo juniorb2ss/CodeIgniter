@@ -10,18 +10,18 @@ Para mais informações, leia o artigo [HMVC no CodeIgniter com Modular Extensio
 
 ##.htaccess
 
-Arquivo `.htaccess` já preparado para o uso de URLs sem a necessidade do "index.php" como segmento. Faz exceção à regra para o diretório "assets" (que deve ficar na raiz do projeto) e para os arquivos `index.php`, `humans.txt` e `robots.txt` (também na raiz).
+Arquivo `.htaccess` já preparado para o uso de URLs sem a necessidade do `index.php` como segmento. Faz exceção à regra para o diretório `assets` (que deve ficar na raiz do projeto) e para os arquivos `index.php`, `humans.txt` e `robots.txt` (também na raiz).
 
-Mais a esse respeito no artigo [Dicas básicas de configuração do CodeIgniter](http://codeigniterbrasil.com/dicas/dicas-basicas-configuracao-codeigniter/)
+Mais a esse respeito no artigo [Dicas básicas de configuração do CodeIgniter](http://codeigniterbrasil.com/dicas/dicas-basicas-configuracao-codeigniter/).
 
 Claro que não são todos os projetos que, necessariamente, precisam contar com esse diretório e arquivos; então, se a regra de exceção não lhe servir, edite o arquivo.  :-)
 
 ##Instalação via Sublime Text com Fetch
 
-Você pode clonar o repositório/_branch_ para seu projeto, normalmente; mas, caso precise de mais agilidade e/ou início de projetos "em linha de produção", usar o [Sublime Text 2](http://www.sublimetext.com/) com o plugin [Nettuts+ Fetch](http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/) é uma opção a ser considerada.
+Você pode clonar o repositório / _branch_ para seu projeto, normalmente; mas, caso precise de mais agilidade e/ou iniciar projetos "em linha de produção", usar o [Sublime Text 2](http://www.sublimetext.com/) com o plugin [Nettuts+ Fetch](http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/) é uma opção a ser considerada.
 
 Simplesmente inclua o seguinte em sua diretiva "packages":
 
 `"CodeIgniter-hmvc": "https://github.com/tarciozemel/CodeIgniter/zipball/modular-extensions-hmvc"`
 
-Então, sempre que precisar iniciar um novo projeto do CodeIgniter já com HMVC, a solução está aí!  o/
+Então, sempre que precisar iniciar um novo projeto do CodeIgniter já com HMVC, usando Sublime Text com o Nettuts+ Fetch instalado, a solução está aí!  o/
