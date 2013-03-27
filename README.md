@@ -1,6 +1,6 @@
 #CodeIgniter 2.1.3 + Modular Extensions + .htaccess
 
-Para sistemas que precisam de HMVC, este _branch_ é o ideal, pois já conta com o **CodeIgniter 2.1.3** preparado para ser usado com (o melhor) HMVC e ainda possui o `.htaccess` preparado para a remoção do "index.php" como segmento de URL.
+Para sistemas que precisam de HMVC, este _branch_ é o ideal, pois já conta com o **CodeIgniter 2.1.3** preparado para ser usado com (o melhor) HMVC e ainda possui o `.htaccess` preparado para a remoção do `index.php` como segmento de URL.
 
 ##Modular Extensions - HMVC
 
